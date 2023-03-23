@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" alt="yodaCode" width="150" /></div>
 I'm a new developer with a passion for coding and building things from scratch. As someone who's transitioning from +10 years of experience in commercial area and customer service, I'm excited to be learning and keeping up with new technologies.
 
-    Here you can do everything, be everything, even have a yoda pet.
+    Here you can do everything, be anything, even have a yoda pet.
 
 ## What I've been working on 👨‍🎓
 
